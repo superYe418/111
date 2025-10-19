@@ -1,0 +1,3 @@
+lease download and unzip the 'MICCAI_BraTS2020_TrainingData' into `./dataset`.
+We also use the BraTS2018 dataset, an open-source dataset. 
+Download the data from MICCAI 2018 BraTS Challenge.
